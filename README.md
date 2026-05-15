@@ -1,19 +1,115 @@
-# presensi
+# 📱 Presensi Online Flutter Firebase
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Aplikasi presensi online berbasis Flutter dan Firebase untuk kebutuhan absensi siswa sekolah menggunakan smartphone.
 
-## Getting Started
+---
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Fitur Aplikasi
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- ✅ Login Siswa
+- ✅ Login Admin
+- ✅ Presensi Masuk
+- ✅ Presensi Pulang
+- ✅ Presensi Sakit
+- ✅ Presensi Alpha
+- ✅ Dashboard Admin Realtime
+- ✅ Firebase Firestore
+- ✅ Riwayat Presensi
+- ✅ UI Modern
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+# 🛠 Teknologi Yang Digunakan
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Flutter
+- Firebase
+- Cloud Firestore
+- Dart Programming Language
+- Material UI
+
+---
+
+# 👨‍💻 Developer
+
+| Nama | Keterangan |
+|---|---|
+| Muhammad ikhsan S | Developer & UI Designer |
+
+---
+
+# 📸 Screenshot Aplikasi
+
+## 🏠 Halaman Awal
+<img src="screenshots/home_login.png" width="300"/>
+
+---
+
+## 👨‍🎓 Login Siswa
+<img src="screenshots/login_siswa.png" width="300"/>
+
+---
+
+## 👨‍💼 Login Admin
+<img src="screenshots/login_admin.png" width="300"/>
+
+---
+
+## 📊 Dashboard Siswa
+<img src="screenshots/dasboard_siswa.png" width="300"/>
+
+---
+
+## 👨‍💼 Dashboard Admin
+<img src="screenshots/dasboard_admin.png" width="300"/>
+
+---
+
+## 🔥 Firebase Database
+<img src="screenshots/firebase.png" width="300"/>
+
+---
+
+# 🚀 Cara Menjalankan Project
+
+```bash
+flutter pub get
+flutter run```
+
+---
+
+# 📂 Struktur Project
+
+```bash
+lib/                # Source code utama Flutter
+assets/             # Asset gambar dan logo
+screenshots/        # Screenshot aplikasi
+android/            # Konfigurasi Android
+ios/                # Konfigurasi iOS
+pubspec.yaml        # Dependency Flutter
+README.md           # Dokumentasi project
+```
+
+---
+
+# 🔥 Firebase Database
+
+Collection yang digunakan:
+
+```bash
+presensi
+riwayat_presensi
+```
+
+---
+
+# 📌 Tujuan Project
+
+Project ini dibuat untuk memenuhi tugas sekolah mata pelajaran pilihan dengan tema:
+
+> Pembuatan APK Absensi Menggunakan Smartphone
+
+---
+
+# 📅 Tahun Pembuatan
+
+2026
