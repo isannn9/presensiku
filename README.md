@@ -40,32 +40,32 @@ Aplikasi presensi online berbasis Flutter dan Firebase untuk kebutuhan absensi s
 # 📸 Screenshot Aplikasi
 
 ## 🏠 Halaman Awal
-<img src="documents/home_login.png" width="300"/>
+<img src="screenshot/home_login.png" width="300"/>
 
 ---
 
 ## 👨‍🎓 Login Siswa
-<img src="documents/login_siswa.png" width="300"/>
+<img src="screenshot/login_siswa.png" width="300"/>
 
 ---
 
 ## 👨‍💼 Login Admin
-<img src="documents/login_admin.png" width="300"/>
+<img src="screenshot/login_admin.png" width="300"/>
 
 ---
 
 ## 📊 Dashboard Siswa
-<img src="documents/dasboard_siswa.png" width="300"/>
+<img src="screenshot/dasboard_siswa.png" width="300"/>
 
 ---
 
 ## 👨‍💼 Dashboard Admin
-<img src="documents/dasboard_admin.png" width="300"/>
+<img src="screenshot/dasboard_admin.png" width="300"/>
 
 ---
 
 ## 🔥 Firebase Database
-<img src="documents/firebase.png" width="300"/>
+<img src="screenshot/firebase.png" width="300"/>
 
 ---
 
