@@ -1,43 +1,40 @@
-# 📱 Presensi Online Flutter Firebase
+<div align="center">
 
-Aplikasi presensi online berbasis Flutter dan Firebase untuk kebutuhan absensi siswa sekolah menggunakan smartphone.
+# 🚀📱 PRESENSI ONLINE FLUTTER FIREBASE
 
----
+### ✨ Aplikasi Absensi Digital Modern Untuk Sekolah ✨
 
-# ✨ Fitur Aplikasi
+<img src="screenshot/home_login.png" width="250"/>
 
-- ✅ Login Siswa
-- ✅ Login Admin
-- ✅ Presensi Masuk
-- ✅ Presensi Pulang
-- ✅ Presensi Sakit
-- ✅ Presensi Alpha
-- ✅ Dashboard Admin Realtime
-- ✅ Firebase Firestore
-- ✅ Riwayat Presensi
-- ✅ UI Modern
+💡 Dibuat menggunakan **Flutter** dan **Firebase**  
+⚡ Realtime • Modern UI • Mudah Digunakan
 
 ---
 
-# 🛠 Teknologi Yang Digunakan
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Framework-blue?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-orange?style=for-the-badge&logo=firebase)
+![Dart](https://img.shields.io/badge/Dart-Programming%20Language-blue?style=for-the-badge&logo=dart)
 
-- Flutter
-- Firebase
-- Cloud Firestore
-- Dart Programming Language
-- Material UI
+</div>
 
 ---
 
-# 👨‍💻 Developer
+# 🌟 FITUR UNGGULAN
 
-| Nama | Keterangan |
-|---|---|
-| Muhammad ikhsan S | Developer & UI Designer |
+✅ 🔐 Login Siswa  
+✅ 👨‍💼 Login Admin  
+✅ 📥 Presensi Masuk  
+✅ 📤 Presensi Pulang  
+✅ 🤒 Presensi Sakit  
+✅ ❌ Presensi Alpha  
+✅ 📊 Dashboard Realtime  
+✅ 🕒 Riwayat Presensi  
+✅ ☁️ Firebase Firestore  
+✅ 🎨 UI Modern & Responsive  
 
 ---
 
-# 📸 Screenshot Aplikasi
+# 📸 SCREENSHOT APLIKASI
 
 ## 🏠 Halaman Awal
 <img src="screenshot/home_login.png" width="300"/>
@@ -59,7 +56,7 @@ Aplikasi presensi online berbasis Flutter dan Firebase untuk kebutuhan absensi s
 
 ---
 
-## 👨‍💼 Dashboard Admin
+## 🧑‍💻 Dashboard Admin
 <img src="screenshot/dasboard_admin.png" width="300"/>
 
 ---
@@ -69,31 +66,45 @@ Aplikasi presensi online berbasis Flutter dan Firebase untuk kebutuhan absensi s
 
 ---
 
-# 🚀 Cara Menjalankan Project
+# 🛠️ TEKNOLOGI YANG DIGUNAKAN
 
-```bash
-flutter pub get
-flutter run```
+| 💻 Teknologi | 📌 Fungsi |
+|---|---|
+| Flutter | Framework aplikasi mobile |
+| Firebase | Backend aplikasi |
+| Cloud Firestore | Database realtime |
+| Dart | Bahasa pemrograman |
+| Material UI | Desain tampilan aplikasi |
 
 ---
 
-# 📂 Struktur Project
+# 🚀 CARA MENJALANKAN PROJECT
 
 ```bash
-lib/                # Source code utama Flutter
-assets/             # Asset gambar dan logo
-screenshots/        # Screenshot aplikasi
-android/            # Konfigurasi Android
-ios/                # Konfigurasi iOS
-pubspec.yaml        # Dependency Flutter
-README.md           # Dokumentasi project
+# 📦 Install dependency
+flutter pub get
+
+# ▶️ Menjalankan aplikasi
+flutter run
 ```
 
 ---
 
-# 🔥 Firebase Database
+# 📂 STRUKTUR PROJECT
 
-Collection yang digunakan:
+```bash
+lib/                # 📱 Source code Flutter
+assets/             # 🖼 Asset gambar & logo
+screenshots/        # 📸 Screenshot aplikasi
+android/            # 🤖 Konfigurasi Android
+ios/                # 🍎 Konfigurasi iOS
+pubspec.yaml        # 📦 Dependency project
+README.md           # 📖 Dokumentasi project
+```
+
+---
+
+# 🔥 FIREBASE COLLECTION
 
 ```bash
 presensi
@@ -102,14 +113,43 @@ riwayat_presensi
 
 ---
 
-# 📌 Tujuan Project
+# 👨‍💻 DEVELOPER
 
-Project ini dibuat untuk memenuhi tugas sekolah mata pelajaran pilihan dengan tema:
-
-> Pembuatan APK Absensi Menggunakan Smartphone
+| 👤 Nama | 🛠 Role |
+|---|---|
+| Muhammad Ikhsan S | Developer & UI Designer |
 
 ---
 
-# 📅 Tahun Pembuatan
+# 📌 TUJUAN PROJECT
 
-2026
+Project ini dibuat untuk memenuhi tugas sekolah dengan tema:
+
+> 📱 "Pembuatan APK Absensi Menggunakan Smartphone"
+
+---
+
+# 🌈 KEUNGGULAN APLIKASI
+
+✨ Tampilan modern dan elegan  
+⚡ Sistem realtime menggunakan Firebase  
+🔒 Login Admin & Siswa  
+📊 Monitoring presensi lebih mudah  
+☁️ Penyimpanan data online  
+📱 Responsive di berbagai ukuran layar  
+
+---
+
+# 📅 TAHUN PEMBUATAN
+
+🗓️ 2026
+
+---
+
+<div align="center">
+
+# ⭐ TERIMA KASIH ⭐
+
+💙💙
+
+</div>
